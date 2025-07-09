@@ -11,5 +11,5 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ajsalinas2/ajsalinas2)
 
 ### :zap: Actividad reciente
-<!--RECENT_ACTIVITY:star-->
+<!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:last_update-->
