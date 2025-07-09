@@ -3,7 +3,7 @@
 :computer: **Economista**
 :location: **Colombia**
 :pencil: **Estudio desarrollo de software y tengo mucho interes por el aprendizaje automatico**
-**Abierto a cualqueir sugerencia o comentario**
+**Abierto a  sugerencias o comentario**
 
 ### Vias de contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%C3%81lvaro%20Salinas-blue?logo=linkedin)](https://www.linkedin.com/in/alvaro-jose-salinas-ramirez-ba78081b3)
